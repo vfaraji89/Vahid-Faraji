@@ -1,2 +1,3 @@
 # Vahid-Faraji
-Organizational Analyst
+People data lead
+De Faro. io
